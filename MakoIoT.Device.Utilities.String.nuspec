@@ -17,8 +17,8 @@
     <description>String extensions for .NET nanoFramework C# projects.</description>
     <tags>nanoFramework C# csharp netmf netnf string</tags>
     <dependencies>
-      <dependency id="nanoFramework.CoreLibrary" version="1.12.0" />
-      <dependency id="nanoFramework.System.Text" version="1.2.7" />
+      <dependency id="nanoFramework.CoreLibrary" version="1.14.2" />
+      <dependency id="nanoFramework.System.Text" version="1.2.37" />
     </dependencies>
   </metadata>
   <files>
