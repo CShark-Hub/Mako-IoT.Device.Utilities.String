@@ -1,4 +1,5 @@
-# Project readme
+# Mako-IoT.Device.Utilities.String
+A couple of useful String functions.
 
 ## How to manually sync fork
 - Clone repository and navigate into folder
